@@ -1,12 +1,12 @@
 {
-  "name": "furqansiddiqui/erc20-php",
+  "name": "lidelin/erc20-php",
   "type": "library",
   "description": "Interact with any ERC20 standard Ethereum token",
   "keywords": ["erc20", "token", "tokens", "ethereum", "geth", "ethereum-go", "eth"],
   "license": "MIT",
   "require": {
     "php": ">=7.1.0",
-    "furqansiddiqui/ethereum-rpc": "dev-master"
+    "lidelin/ethereum-rpc": ">=0.1.2"
   },
   "autoload": {
     "psr-4": {

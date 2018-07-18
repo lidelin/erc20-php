@@ -1,3 +1,5 @@
+forked from [furqansiddiqui/erc20-php](https://github.com/furqansiddiqui/erc20-php)
+
 # ERC20 Tokens
 
 Interact with any ERC20 standard Ethereum token
