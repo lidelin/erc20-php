@@ -34,7 +34,7 @@ int(18)
 
 ## Installation
 
-`composer require furqansiddiqui/erc20-php`
+`composer require lidelin/erc20-php`
 
 ### Prerequisites
 
